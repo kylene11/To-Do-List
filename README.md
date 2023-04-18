@@ -1,1 +1,1 @@
-A To Do List to help plan your day
+Use this To-Do-List to plan your day!
